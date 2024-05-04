@@ -14,7 +14,9 @@ revisitar quando e onde quiser ♥
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
 </div>
 </div>
-
-
+<br>
+<br>
+<p> Esse aqui é o back-end para o projeto, mas você pode conferir
+o front-end: https://github.com/xavierruth/atividade_pwareceita
 
 
